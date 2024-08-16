@@ -1,0 +1,3 @@
+Game Turn, Event, Attacker, Unit, Defender, Unit, Mayhem, Current Total
+5, Barb Combat, 4, UNIT_WARRIOR, 63, UNIT_SCOUT, 0.5, 0.5
+9, Barb Combat, 63, UNIT_WARRIOR, 0, UNIT_SCOUT, 0.5, 1.0

@@ -1,0 +1,49 @@
+[1502152.952] [Localization]: StartupErrorMessages.xml
+[1502152.952] [Localization]: Input XML does not contain database entry tags. GameData, GameInfo or Database
+[1502161.186] [Localization]: Validating Foreign Key Constraints...
+[1502161.187] [Localization]: Passed Validation.
+[1502161.370] [Configuration]: Validating Foreign Key Constraints...
+[1502161.370] [Configuration]: Passed Validation.
+[1502166.108] [FullTextSearch]: Initializing FullTextSearch
+[1502169.631] [Gameplay]: Validating Foreign Key Constraints...
+[1502169.642] [Gameplay]: Passed Validation.
+[1502170.532] [Localization] ERROR: Database::XMLSerializer (Text_BR.xml): Duplicate column names detected in <Row>. Name: Row, Value: 
+[1502170.532] [Localization]: In XMLSerializer while updating table LocalizedText from file Text_BR.xml.
+[1502173.949] [Configuration]: Validating Foreign Key Constraints...
+[1502173.950] [Configuration]: Passed Validation.
+[1502176.246] [HallofFame]: unable to open database file
+[1502176.246] [HallofFame]: Database not found.  Creating from scratch.
+[1502176.264] [HallofFame]: Database is up-to-date!
+[1502212.837] [FullTextSearch]: FTS - Creating Context
+[1502223.485] [FullTextSearch]: FTS - Creating Context
+[1502691.980] [Localization] ERROR: Database::XMLSerializer (Text_BR.xml): Duplicate column names detected in <Row>. Name: Row, Value: 
+[1502691.980] [Localization]: In XMLSerializer while updating table LocalizedText from file Text_BR.xml.
+[1502692.356] [Configuration]: Validating Foreign Key Constraints...
+[1502692.356] [Configuration]: Passed Validation.
+[1502694.537] [Localization] ERROR: Database::XMLSerializer (Text_BR.xml): Duplicate column names detected in <Row>. Name: Row, Value: 
+[1502694.537] [Localization]: In XMLSerializer while updating table LocalizedText from file Text_BR.xml.
+[1502702.787] [Gameplay]: Validating Foreign Key Constraints...
+[1502702.809] [Gameplay]: Passed Validation.
+[1502717.427] [FullTextSearch]: FTS - Creating Context
+[1502717.427] [FullTextSearch]: FTS - Creating Context
+[1502718.114] [FullTextSearch]: FTS - Creating Context
+[1502718.269] [FullTextSearch]: FTS - Creating Context
+[1502720.071] [FullTextSearch]: FTS - Creating Context
+[1502767.196] [Localization] ERROR: Database::XMLSerializer (Text_BR.xml): Duplicate column names detected in <Row>. Name: Row, Value: 
+[1502767.196] [Localization]: In XMLSerializer while updating table LocalizedText from file Text_BR.xml.
+[1502768.481] [Configuration]: Validating Foreign Key Constraints...
+[1502768.481] [Configuration]: Passed Validation.
+[1502768.937] [FullTextSearch]: FTS - Creating Context
+[1502796.894] [Localization] ERROR: Database::XMLSerializer (Text_BR.xml): Duplicate column names detected in <Row>. Name: Row, Value: 
+[1502796.894] [Localization]: In XMLSerializer while updating table LocalizedText from file Text_BR.xml.
+[1502797.261] [Configuration]: Validating Foreign Key Constraints...
+[1502797.261] [Configuration]: Passed Validation.
+[1502799.542] [Localization] ERROR: Database::XMLSerializer (Text_BR.xml): Duplicate column names detected in <Row>. Name: Row, Value: 
+[1502799.542] [Localization]: In XMLSerializer while updating table LocalizedText from file Text_BR.xml.
+[1502803.480] [Gameplay]: Validating Foreign Key Constraints...
+[1502803.500] [Gameplay]: Passed Validation.
+[1502816.914] [FullTextSearch]: FTS - Creating Context
+[1502816.914] [FullTextSearch]: FTS - Creating Context
+[1502817.096] [FullTextSearch]: FTS - Creating Context
+[1502817.188] [FullTextSearch]: FTS - Creating Context
+[1502817.817] [FullTextSearch]: FTS - Creating Context

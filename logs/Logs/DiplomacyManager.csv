@@ -1,0 +1,19 @@
+Game Turn, From, To, Initiator, Type, SubType, Message
+10, 5, 0, -1, FIRST_MEET_NO_MANS, NONE, 00000000, Requesting Session (B)
+10, 5, 0, 5, FIRST_MEET_NO_MANS, NONE, INITIAL, Adding to pending
+10, 5, 0, 5, FIRST_MEET_NO_MANS, NONE, INITIAL, Processing Statement
+10, 5, 0, 5, FIRST_MEET_NO_MANS, NONE, INITIAL, Processing Immediately
+10, 0, 5, 5, FIRST_MEET_NO_MANS, NONE, POSITIVE, Adding to pending
+10, 0, 5, 5, FIRST_MEET_NO_MANS, NONE, POSITIVE, Broadcasting
+10, 0, 5, 5, FIRST_MEET_NO_MANS, NONE, POSITIVE, Processing Statement
+10, 0, 5, 5, FIRST_MEET_NO_MANS, NONE, POSITIVE, Processing Immediately
+10, 5, 0, 5, FIRST_MEET_NO_MANS_INFO_EXCHANGE, NONE, 00000000, Adding to pending
+10, 5, 0, 5, FIRST_MEET_NO_MANS_INFO_EXCHANGE, NONE, 00000000, Processing Statement
+10, 5, 0, 5, FIRST_MEET_NO_MANS_INFO_EXCHANGE, NONE, 00000000, Processing Immediately
+10, 0, 5, 5, FIRST_MEET_NO_MANS_INFO_EXCHANGE, NONE, POSITIVE, Adding to pending
+10, 0, 5, 5, FIRST_MEET_NO_MANS_INFO_EXCHANGE, NONE, POSITIVE, Broadcasting
+10, 0, 5, 5, FIRST_MEET_NO_MANS_INFO_EXCHANGE, NONE, POSITIVE, Processing Statement
+10, 0, 5, 5, FIRST_MEET_NO_MANS_INFO_EXCHANGE, NONE, POSITIVE, Processing Immediately
+10, 0, 5, ?, STATEMENT_RESULT, ffffffff, ?, Sending Action
+10, 5, 0, ?, ?, ?, ?, Closing Session
+10, 0, 5, ?, STATEMENT_RESULT, ffffffff, ?, Processing Action

@@ -1,0 +1,519 @@
+Game Turn, Player, Operation, Notes, Team, Team Notes, Team Members, Terrain
+1, 1, Settle New City, Started
+1, 1, Settle New City running, TARGET -9999:-9999
+1, 1, Settle New City, ,0, Not Ready, 
+1, 1, Settle New City, Operation Change Target INVALID, No backup
+1, 1, Settle New City, Operation complete
+1, 2, Settle New City, Started
+1, 2, Settle New City running, TARGET -9999:-9999
+1, 2, Settle New City, ,0, Not Ready, 
+1, 2, Settle New City, Operation Change Target INVALID, No backup
+1, 2, Settle New City, Operation complete
+1, 3, Settle New City, Started
+1, 3, Settle New City running, TARGET -9999:-9999
+1, 3, Settle New City, ,0, Not Ready, 
+1, 3, Settle New City, Operation Change Target INVALID, No backup
+1, 3, Settle New City, Operation complete
+1, 4, Settle New City, Started
+1, 4, Settle New City running, TARGET -9999:-9999
+1, 4, Settle New City, ,0, Not Ready, 
+1, 4, Settle New City, Operation Change Target INVALID, No backup
+1, 4, Settle New City, Operation complete
+1, 5, Settle New City, Started
+1, 5, Settle New City running, TARGET -9999:-9999
+1, 5, Settle New City, ,0, Not Ready, 
+1, 5, Settle New City, Operation Change Target INVALID, No backup
+1, 5, Settle New City, Operation complete
+2, 1, Settle New City, Started
+2, 1, Settle New City running, TARGET 50:31
+2, 1, Settle New City, ,0, Not Ready, 
+2, 1, Settle New City, Recruiting minimums, , , UNIT_WARRIOR
+2, 1, Settle New City, Recruiting strength, , Enemy Str: 0 / 20.0, UNIT_WARRIOR
+2, 1, Settle New City, Operation Recruit, 2 units, Recruited 1, Contract for: UNIT_WARRIOR_MONK
+2, 1, Settle New City, No recruits to reach minimum, , , 
+2, 1, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+2, 1, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+2, 1, Settle New City, Operation Move, UNIT_SETTLER, 53:29, 53:29, 53:29
+2, 1, Settle New City, Operation Move, UNIT_WARRIOR, 53:29, 53:30, 53:30
+2, 1, Settle New City, Operation Move, UNIT_SETTLER, 53:30, 50:31, 53:30
+2, 2, Settle New City, Started
+2, 2, Settle New City running, TARGET -9999:-9999
+2, 2, Settle New City, ,0, Not Ready, 
+2, 2, Settle New City, Operation Change Target INVALID, No backup
+2, 2, Settle New City, Operation complete
+2, 3, Naval Superiority, Started
+2, 3, Naval Superiority, No recruits to reach minimum, , , 
+2, 3, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+2, 4, Settle New City, Started
+2, 4, Settle New City running, TARGET 22:11
+2, 4, Settle New City, ,0, Not Ready, 
+2, 4, Naval Superiority, Started
+2, 4, Settle New City, Recruiting minimums, , , UNIT_WARRIOR
+2, 4, Settle New City, Recruiting strength, , Enemy Str: 0 / 20.0, UNIT_WARRIOR
+2, 4, Settle New City, Operation Recruit, 2 units, Recruited 1, Contract for: UNIT_WARRIOR_MONK
+2, 4, Settle New City, No recruits to reach minimum, , , 
+2, 4, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+2, 4, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+2, 4, Settle New City, Operation Move, UNIT_SETTLER, 25:8, 25:8, 25:8
+2, 4, Settle New City, Operation Move, UNIT_WARRIOR, 25:8, 25:8, 25:8
+2, 4, Settle New City, Operation Move, UNIT_SETTLER, 25:8, 22:11, 26:8
+2, 4, Settle New City, Operation Move, UNIT_WARRIOR, 26:8, 22:11, 26:8
+2, 4, Naval Superiority, No recruits to reach minimum, , , 
+2, 4, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+2, 5, Settle New City, Started
+2, 5, Settle New City running, TARGET -9999:-9999
+2, 5, Settle New City, ,0, Not Ready, 
+2, 5, Settle New City, Operation Change Target INVALID, No backup
+2, 5, Settle New City, Operation complete
+2, 8, Naval Superiority, Started
+2, 8, Naval Superiority, No recruits to reach minimum, , , 
+2, 8, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+2, 10, Naval Superiority, Started
+2, 10, Naval Superiority, No recruits to reach minimum, , , 
+2, 10, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+3, 1, Settle New City running, TARGET 50:31
+3, 1, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+3, 1, Settle New City, No recruits to reach minimum, , , 
+3, 1, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+3, 1, Settle New City, No recruits to reach minimum, , , 
+3, 1, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+3, 1, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+3, 1, Settle New City, Operation Move, UNIT_SETTLER, 53:30, 50:31, 52:31
+3, 1, Settle New City, Operation Move, UNIT_WARRIOR, 52:31, 50:31, 52:31
+3, 2, Settle New City, Started
+3, 2, Settle New City running, TARGET 55:16
+3, 2, Settle New City, ,0, Not Ready, 
+3, 2, Settle New City, Recruiting minimums, , , UNIT_WARRIOR
+3, 2, Settle New City, Recruiting strength, , Enemy Str: 0 / 20.0, UNIT_WARRIOR
+3, 2, Settle New City, Operation Recruit, 2 units, Recruited 1, Contract for: UNIT_WARRIOR_MONK
+3, 2, Settle New City, No recruits to reach minimum, , , 
+3, 2, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+3, 2, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+3, 2, Settle New City, Operation Move, UNIT_SETTLER, 57:13, 57:13, 57:13
+3, 2, Settle New City, Operation Move, UNIT_WARRIOR, 57:13, 57:13, 57:13
+3, 2, Settle New City, Operation Move, UNIT_SETTLER, 57:13, 55:16, 57:13
+3, 2, Settle New City, Operation Move, UNIT_WARRIOR, 57:13, 55:16, 57:13
+3, 3, Naval Superiority running, TARGET 12:16
+3, 3, Naval Superiority, ,0, Not Ready, 
+3, 3, Naval Superiority, No recruits to reach minimum, , , 
+3, 3, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+3, 4, Settle New City running, TARGET 22:11
+3, 4, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+3, 4, Naval Superiority running, TARGET 23:5
+3, 4, Naval Superiority, ,0, Not Ready, 
+3, 4, Settle New City, No recruits to reach minimum, , , 
+3, 4, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+3, 4, Settle New City, No recruits to reach minimum, , , 
+3, 4, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+3, 4, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+3, 4, Settle New City, Operation Move, UNIT_SETTLER, 26:8, 22:11, 25:9
+3, 4, Settle New City, Operation Move, UNIT_WARRIOR, 25:9, 22:11, 25:9
+3, 4, Naval Superiority, No recruits to reach minimum, , , 
+3, 4, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+3, 5, Settle New City, Started
+3, 5, Settle New City running, TARGET -9999:-9999
+3, 5, Settle New City, ,0, Not Ready, 
+3, 5, Settle New City, Operation Change Target INVALID, No backup
+3, 5, Settle New City, Operation complete
+3, 8, Naval Superiority running, TARGET 55:3
+3, 8, Naval Superiority, ,0, Not Ready, 
+3, 8, Naval Superiority, No recruits to reach minimum, , , 
+3, 8, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+3, 10, Naval Superiority running, TARGET 64:23
+3, 10, Naval Superiority, ,0, Not Ready, 
+3, 10, Naval Superiority, No recruits to reach minimum, , , 
+3, 10, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+4, 1, Settle New City running, TARGET 50:31
+4, 1, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+4, 1, Settle New City, No recruits to reach minimum, , , 
+4, 1, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+4, 1, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+4, 1, Settle New City, Operation Move, UNIT_SETTLER, 52:31, 50:31, 51:31
+4, 1, Settle New City, Operation Move, UNIT_WARRIOR, 51:31, 50:31, 51:31
+4, 2, Settle New City running, TARGET 55:16
+4, 2, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+4, 2, Settle New City, No recruits to reach minimum, , , 
+4, 2, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+4, 2, Settle New City, No recruits to reach minimum, , , 
+4, 2, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+4, 2, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+4, 2, Settle New City, Operation Move, UNIT_SETTLER, 57:13, 55:16, 56:13
+4, 2, Settle New City, Operation Move, UNIT_WARRIOR, 56:13, 55:16, 56:13
+4, 3, Naval Superiority running, TARGET 12:16
+4, 3, Naval Superiority, ,0, Not Ready, 
+4, 3, Naval Superiority, No recruits to reach minimum, , , 
+4, 3, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+4, 4, Settle New City running, TARGET 22:11
+4, 4, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+4, 4, Naval Superiority running, TARGET 23:5
+4, 4, Naval Superiority, ,0, Not Ready, 
+4, 4, Settle New City, No recruits to reach minimum, , , 
+4, 4, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+4, 4, Settle New City, No recruits to reach minimum, , , 
+4, 4, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+4, 4, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+4, 4, Settle New City, Operation Move, UNIT_SETTLER, 25:9, 22:11, 25:10
+4, 4, Settle New City, Operation Move, UNIT_WARRIOR, 25:10, 22:11, 25:10
+4, 4, Naval Superiority, No recruits to reach minimum, , , 
+4, 4, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+4, 5, Settle New City, Started
+4, 5, Settle New City running, TARGET 22:26
+4, 5, Settle New City, ,0, Not Ready, 
+4, 5, Settle New City, Recruiting minimums, , , UNIT_WARRIOR
+4, 5, Settle New City, Recruiting strength, , Enemy Str: 0 / 20.0, UNIT_WARRIOR
+4, 5, Settle New City, Operation Recruit, 2 units, Recruited 1, Contract for: UNIT_WARRIOR_MONK
+4, 5, Settle New City, Operation Move, UNIT_SETTLER, 25:25, 25:25, 25:25
+4, 8, Naval Superiority running, TARGET 55:3
+4, 8, Naval Superiority, ,0, Not Ready, 
+4, 8, Naval Superiority, No recruits to reach minimum, , , 
+4, 8, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+4, 10, Naval Superiority running, TARGET 64:23
+4, 10, Naval Superiority, ,0, Not Ready, 
+4, 10, Naval Superiority, No recruits to reach minimum, , , 
+4, 10, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+5, 1, Settle New City running, TARGET 50:31
+5, 1, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+5, 1, Settle New City, No recruits to reach minimum, , , 
+5, 1, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+5, 1, Settle New City, No recruits to reach minimum, , , 
+5, 1, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+5, 1, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+5, 1, Settle New City, Operation Move, UNIT_SETTLER, 51:31, 50:31, 50:31
+5, 1, Settle New City, Operation Move, UNIT_WARRIOR, 50:31, 50:31, 50:31
+5, 1, Settle New City, Operation complete
+5, 2, Settle New City running, TARGET 55:16
+5, 2, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+5, 2, Settle New City, No recruits to reach minimum, , , 
+5, 2, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+5, 2, Settle New City, No recruits to reach minimum, , , 
+5, 2, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+5, 2, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+5, 2, Settle New City, Operation Move, UNIT_SETTLER, 56:13, 55:16, 56:14
+5, 2, Settle New City, Operation Move, UNIT_WARRIOR, 56:14, 55:16, 56:14
+5, 3, Settle New City, Started
+5, 3, Naval Superiority running, TARGET 12:16
+5, 3, Naval Superiority, ,0, Not Ready, 
+5, 3, Settle New City running, TARGET 14:19
+5, 3, Settle New City, ,0, Not Ready, 
+5, 3, Settle New City, Recruiting minimums, , , UNIT_WARRIOR
+5, 3, Settle New City, Recruiting strength, , Enemy Str: 0 / 20.0, UNIT_WARRIOR
+5, 3, Settle New City, Operation Recruit, 2 units, Recruited 1, Contract for: UNIT_WARRIOR_MONK
+5, 3, Settle New City, No recruits to reach minimum, , , 
+5, 3, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+5, 3, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+5, 3, Settle New City, Operation Move, UNIT_SETTLER, 11:17, 11:17, 11:17
+5, 3, Settle New City, Operation Move, UNIT_WARRIOR, 11:17, 11:17, 11:17
+5, 3, Settle New City, Operation Move, UNIT_SETTLER, 11:17, 14:19, 12:18
+5, 3, Settle New City, Operation Move, UNIT_WARRIOR, 12:18, 14:19, 12:18
+5, 3, Naval Superiority, No recruits to reach minimum, , , 
+5, 3, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+5, 4, Settle New City running, TARGET 22:11
+5, Settle New City, 4, , Battle line, 24:11, 0 endangered
+5, 4, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+5, 4, Naval Superiority running, TARGET 23:5
+5, 4, Naval Superiority, ,0, Not Ready, 
+5, 4, Settle New City, No recruits to reach minimum, , , 
+5, 4, Settle New City, Recruiting strength, , Enemy Str: 10 / 20.0, UNIT_WARRIOR
+5, Settle New City, 4, , Battle line, 24:11, 0 endangered
+5, 4, Settle New City, Operation Recruit, 3 units, Recruited 1, Contract for: UNIT_WARRIOR_MONK
+5, 4, Settle New City, Operation Move, UNIT_SETTLER, 25:10, 22:11, 24:10
+5, 4, Settle New City, Operation Move, UNIT_WARRIOR, 24:10, 22:11, 24:10
+5, 4, Settle New City, Operation Move, UNIT_WARRIOR, 25:9, 22:11, 24:9
+5, 4, Naval Superiority, No recruits to reach minimum, , , 
+5, 4, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+5, 5, Settle New City running, TARGET 22:26
+5, 5, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+5, 5, Settle New City, No recruits to reach minimum, , , 
+5, 5, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+5, 5, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+5, 5, Settle New City, No recruits to reach minimum, , , 
+5, 5, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+5, 5, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+5, 5, Settle New City, Operation Move, UNIT_SETTLER, 25:25, 25:25, 25:25
+5, 5, Settle New City, Operation Move, UNIT_WARRIOR, 25:25, 25:25, 25:25
+5, 5, Settle New City, Operation Move, UNIT_SETTLER, 25:25, 22:26, 25:24
+5, 5, Settle New City, Operation Move, UNIT_WARRIOR, 25:24, 22:26, 25:24
+5, 8, Naval Superiority running, TARGET 55:3
+5, 8, Naval Superiority, ,0, Not Ready, 
+5, 8, Naval Superiority, No recruits to reach minimum, , , 
+5, 8, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+5, 10, Naval Superiority running, TARGET 64:23
+5, 10, Naval Superiority, ,0, Not Ready, 
+5, 10, Naval Superiority, No recruits to reach minimum, , , 
+5, 10, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+6, 1, Settle New City, Started
+6, 1, Settle New City running, TARGET 53:25
+6, 1, Settle New City, ,0, Not Ready, 
+6, 1, Naval Superiority, Started
+6, 1, Naval Superiority, No recruits to reach minimum, , , 
+6, 1, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+6, 2, Settle New City running, TARGET 55:16
+6, 2, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+6, 2, Settle New City, No recruits to reach minimum, , , 
+6, 2, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+6, 2, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+6, 2, Settle New City, Operation Move, UNIT_SETTLER, 56:14, 55:16, 55:15
+6, 2, Settle New City, Operation Move, UNIT_WARRIOR, 55:15, 55:16, 55:15
+6, 3, Naval Superiority running, TARGET 12:16
+6, 3, Naval Superiority, ,0, Not Ready, 
+6, 3, Settle New City running, TARGET 14:19
+6, 3, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+6, 3, Settle New City, No recruits to reach minimum, , , 
+6, 3, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+6, 3, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+6, 3, Settle New City, Operation Move, UNIT_SETTLER, 12:18, 13:19, 13:18
+6, 3, Settle New City, Operation Move, UNIT_WARRIOR, 13:18, 13:19, 13:18
+6, 3, Naval Superiority, No recruits to reach minimum, , , 
+6, 3, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+6, 4, Settle New City running, TARGET 22:11
+6, Settle New City, 4, , Battle line, 23:11, 0 endangered
+6, 4, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; UNIT_WARRIOR; 
+6, 4, Naval Superiority running, TARGET 23:5
+6, 4, Naval Superiority, ,0, Not Ready, 
+6, Settle New City, 4, , Battle line, 23:11, 0 endangered
+6, 4, Settle New City, No recruits to reach minimum, , , 
+6, 4, Settle New City, No recruits to match strength, , Enemy Str: 7 / 20.0, 
+6, Settle New City, 4, , Battle line, 23:11, 0 endangered
+6, 4, Settle New City, Operation Recruit, 3 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+6, 4, Settle New City, Operation Move, UNIT_SETTLER, 24:10, 22:11, 23:11
+6, 4, Settle New City, Operation Move, UNIT_WARRIOR, 23:11, 22:11, 23:11
+6, 4, Settle New City, Operation Move, UNIT_WARRIOR, 24:9, 22:11, 23:9
+6, 4, Naval Superiority, No recruits to reach minimum, , , 
+6, 4, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+6, 5, Settle New City running, TARGET 22:26
+6, 5, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+6, 5, Settle New City, No recruits to reach minimum, , , 
+6, 5, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+6, 5, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+6, 5, Settle New City, Operation Move, UNIT_SETTLER, 25:24, 22:26, 24:24
+6, 5, Settle New City, Operation Move, UNIT_WARRIOR, 24:24, 22:26, 24:24
+6, 8, Naval Superiority running, TARGET 55:3
+6, 8, Naval Superiority, ,0, Not Ready, 
+6, 8, Naval Superiority, No recruits to reach minimum, , , 
+6, 8, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+6, 10, Naval Superiority running, TARGET 64:23
+6, 10, Naval Superiority, ,0, Not Ready, 
+6, 10, Naval Superiority, No recruits to reach minimum, , , 
+6, 10, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+7, 1, Settle New City running, TARGET 53:25
+7, 1, Settle New City, ,0, Not Ready, 
+7, 1, Naval Superiority running, TARGET 48:33
+7, 1, Naval Superiority, ,0, Not Ready, 
+7, 1, Naval Superiority, No recruits to reach minimum, , , 
+7, 1, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+7, 2, Settle New City running, TARGET 55:16
+7, 2, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+7, 2, Settle New City, No recruits to reach minimum, , , 
+7, 2, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+7, 2, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+7, 2, Settle New City, Operation Move, UNIT_SETTLER, 55:15, 56:16, 56:16
+7, 2, Settle New City, Operation Move, UNIT_WARRIOR, 56:16, 56:16, 56:16
+7, 3, Naval Superiority running, TARGET 12:16
+7, 3, Naval Superiority, ,0, Not Ready, 
+7, 3, Settle New City running, TARGET 14:19
+7, 3, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+7, 3, Settle New City, No recruits to reach minimum, , , 
+7, 3, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+7, 3, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+7, 3, Settle New City, Operation Move, UNIT_SETTLER, 13:18, 14:19, 13:19
+7, 3, Settle New City, Operation Move, UNIT_WARRIOR, 13:19, 14:19, 13:19
+7, 3, Naval Superiority, No recruits to reach minimum, , , 
+7, 3, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+7, 4, Settle New City running, TARGET 22:11
+7, Settle New City, 4, , Battle line, 23:12, 0 endangered
+7, 4, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; UNIT_WARRIOR; 
+7, 4, Naval Superiority running, TARGET 23:5
+7, 4, Naval Superiority, ,0, Not Ready, 
+7, 4, Settle New City, No recruits to reach minimum, , , 
+7, 4, Settle New City, No recruits to match strength, , Enemy Str: 7 / 20.0, 
+7, 4, Settle New City, No recruits to reach minimum, , , 
+7, 4, Settle New City, No recruits to match strength, , Enemy Str: 7 / 20.0, 
+7, 4, Settle New City, Operation Recruit, 3 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+7, 4, Settle New City, Operation Move, UNIT_SETTLER, 23:11, 22:11, 22:11
+7, 4, Settle New City, Operation Move, UNIT_WARRIOR, 22:11, 22:11, 22:11
+7, 4, Settle New City, Operation Move, UNIT_WARRIOR, 23:9, 23:10, 23:10
+7, 4, Naval Superiority, No recruits to reach minimum, , , 
+7, 4, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+7, 5, Settle New City running, TARGET 22:26
+7, 5, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+7, 5, Settle New City, No recruits to reach minimum, , , 
+7, 5, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+7, 5, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+7, 5, Settle New City, Operation Move, UNIT_SETTLER, 24:24, 22:26, 23:24
+7, 5, Settle New City, Operation Move, UNIT_WARRIOR, 23:24, 22:26, 23:24
+7, 8, Naval Superiority running, TARGET 55:3
+7, 8, Naval Superiority, ,0, Not Ready, 
+7, 8, Naval Superiority, No recruits to reach minimum, , , 
+7, 8, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+7, 10, Naval Superiority running, TARGET 64:23
+7, 10, Naval Superiority, ,0, Not Ready, 
+7, 10, Naval Superiority, No recruits to reach minimum, , , 
+7, 10, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+8, 1, Settle New City running, TARGET 53:25
+8, 1, Settle New City, ,0, Not Ready, 
+8, 1, Naval Superiority running, TARGET 48:33
+8, 1, Naval Superiority, ,0, Not Ready, 
+8, 1, Naval Superiority, No recruits to reach minimum, , , 
+8, 1, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+8, 2, Settle New City running, TARGET 55:16
+8, 2, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+8, 2, Settle New City, No recruits to reach minimum, , , 
+8, 2, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+8, 2, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+8, 2, Settle New City, Operation Move, UNIT_SETTLER, 56:16, 55:16, 55:16
+8, 2, Settle New City, Operation Move, UNIT_WARRIOR, 55:16, 55:16, 55:16
+8, 3, Naval Superiority running, TARGET 12:16
+8, 3, Naval Superiority, ,0, Not Ready, 
+8, 3, Settle New City running, TARGET 14:19
+8, 3, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+8, 3, Settle New City, No recruits to reach minimum, , , 
+8, 3, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+8, 3, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+8, 3, Settle New City, Operation Move, UNIT_SETTLER, 13:19, 14:19, 14:19
+8, 3, Settle New City, Operation Move, UNIT_WARRIOR, 14:19, 14:19, 14:19
+8, 3, Settle New City, Operation complete
+8, 3, Naval Superiority, No recruits to reach minimum, , , 
+8, 3, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+8, 4, Settle New City running, TARGET 22:11
+8, Settle New City, 4, , Battle line, 21:10, 0 endangered
+8, 4, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; UNIT_WARRIOR; 
+8, 4, Naval Superiority running, TARGET 23:5
+8, 4, Naval Superiority, ,0, Not Ready, 
+8, 4, Settle New City, No recruits to reach minimum, , , 
+8, 4, Settle New City, No recruits to match strength, , Enemy Str: 17 / 20.0, 
+8, 4, Settle New City, No recruits to reach minimum, , , 
+8, 4, Settle New City, No recruits to match strength, , Enemy Str: 17 / 20.0, 
+8, 4, Settle New City, Operation Recruit, 3 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+8, 4, Settle New City, Operation Move, UNIT_SETTLER, 22:11, 22:11, 22:11
+8, 4, Settle New City, Operation Move, UNIT_WARRIOR, 22:11, 22:11, 22:11
+8, 4, Settle New City, Operation Move, UNIT_WARRIOR, 23:10, 23:10, 23:10
+8, 4, Settle New City, Operation complete
+8, 4, Naval Superiority, No recruits to reach minimum, , , 
+8, 4, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+8, 5, Settle New City running, TARGET 22:26
+8, 5, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+8, 5, Settle New City, No recruits to reach minimum, , , 
+8, 5, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+8, 5, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+8, 5, Settle New City, Operation Move, UNIT_SETTLER, 23:24, 22:26, 22:25
+8, 5, Settle New City, Operation Move, UNIT_WARRIOR, 22:25, 22:26, 22:25
+8, 8, Naval Superiority running, TARGET 55:3
+8, 8, Naval Superiority, ,0, Not Ready, 
+8, 8, Naval Superiority, No recruits to reach minimum, , , 
+8, 8, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+8, 10, Naval Superiority running, TARGET 64:23
+8, 10, Naval Superiority, ,0, Not Ready, 
+8, 10, Naval Superiority, No recruits to reach minimum, , , 
+8, 10, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+9, 1, Settle New City running, TARGET 53:25
+9, 1, Settle New City, ,0, Not Ready, 
+9, 1, Naval Superiority running, TARGET 48:33
+9, 1, Naval Superiority, ,0, Not Ready, 
+9, 1, Naval Superiority, No recruits to reach minimum, , , 
+9, 1, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+9, 2, Settle New City running, TARGET 55:16
+9, 2, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+9, 2, Settle New City, No recruits to reach minimum, , , 
+9, 2, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+9, 2, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+9, 2, Settle New City, Operation Move, UNIT_SETTLER, 55:16, 55:16, 55:16
+9, 2, Settle New City, Operation Move, UNIT_WARRIOR, 55:16, 55:16, 55:16
+9, 2, Settle New City, Operation complete
+9, 3, Settle New City, Started
+9, 3, Naval Superiority running, TARGET 12:16
+9, 3, Naval Superiority, ,0, Not Ready, 
+9, 3, Settle New City running, TARGET 11:21
+9, 3, Settle New City, ,0, Not Ready, 
+9, 3, Naval Superiority, No recruits to reach minimum, , , 
+9, 3, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+9, 4, Settle New City, Started
+9, 4, Settle New City running, TARGET 26:12
+9, 4, Settle New City, ,0, Not Ready, 
+9, 4, Naval Superiority running, TARGET 23:5
+9, 4, Naval Superiority, ,0, Not Ready, 
+9, 4, Naval Superiority, No recruits to reach minimum, , , 
+9, 4, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+9, 5, Settle New City running, TARGET 22:26
+9, 5, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+9, 5, Settle New City, No recruits to reach minimum, , , 
+9, 5, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+9, 5, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+9, 5, Settle New City, Operation Move, UNIT_SETTLER, 22:25, 22:26, 22:26
+9, 5, Settle New City, Operation Move, UNIT_WARRIOR, 22:26, 22:26, 22:26
+9, 8, Naval Superiority running, TARGET 55:3
+9, 8, Naval Superiority, ,0, Not Ready, 
+9, 8, Naval Superiority, No recruits to reach minimum, , , 
+9, 8, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+9, 10, Naval Superiority running, TARGET 64:23
+9, 10, Naval Superiority, ,0, Not Ready, 
+9, 10, Naval Superiority, No recruits to reach minimum, , , 
+9, 10, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+10, 1, Settle New City running, TARGET 53:25
+10, 1, Settle New City, ,0, Not Ready, 
+10, 1, Naval Superiority running, TARGET 48:33
+10, 1, Naval Superiority, ,0, Not Ready, 
+10, 1, Settle New City, Recruiting minimums, , , UNIT_SLINGER
+10, 1, Settle New City, No recruits to reach minimum, , , 
+10, 1, Settle New City, Operation Recruit, 1 units, Recruited 1, Contract for: UNIT_SETTLER
+10, 1, Settle New City, Operation Move, UNIT_SLINGER, 54:25, 54:28, 55:26
+10, 1, Naval Superiority, No recruits to reach minimum, , , 
+10, 1, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+10, 2, Settle New City, Started
+10, 2, Settle New City running, TARGET 60:11
+10, 2, Settle New City, ,0, Not Ready, 
+10, 3, Naval Superiority running, TARGET 12:16
+10, 3, Naval Superiority, ,0, Not Ready, 
+10, 3, Settle New City running, TARGET 11:21
+10, 3, Settle New City, ,0, Not Ready, 
+10, 3, Attack Enemy City, Started
+10, 3, Attack Enemy City, Recruiting minimums, , , UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting minimums, , , UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting minimums, , , UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting minimums, , , UNIT_SLINGER
+10, 3, Attack Enemy City, Recruiting minimums, , , UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting minimums, , , UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting minimums, , , UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting strength, , Enemy Str: 10 / 30.0, UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting strength, , Enemy Str: 10 / 30.0, UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting strength, , Enemy Str: 10 / 30.0, UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting strength, , Enemy Str: 10 / 30.0, UNIT_SLINGER
+10, 3, Attack Enemy City, Recruiting strength, , Enemy Str: 10 / 30.0, UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting strength, , Enemy Str: 10 / 30.0, UNIT_WARRIOR
+10, 3, Attack Enemy City, Recruiting strength, , Enemy Str: 10 / 30.0, UNIT_WARRIOR
+10, 3, Attack Enemy City, Operation Recruit, 5 units, Recruited 5, Contract for: UNIT_WARRIOR_MONK
+10, 3, Attack Enemy City, No recruits to reach minimum, , , 
+10, 3, Attack Enemy City, No recruits to match strength, , Enemy Str: 10 / 60.0, 
+10, 3, Attack Enemy City, Operation Recruit, 5 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+10, 3, Attack Enemy City, Operation Move, UNIT_WARRIOR, 13:19, 16:24, 14:19
+10, 3, Attack Enemy City, Operation Move, UNIT_SLINGER, 11:21, 16:24, 12:21
+10, 3, Attack Enemy City, Operation Move, UNIT_WARRIOR, 9:19, 16:24, 10:19
+10, 3, Attack Enemy City, Operation Move, UNIT_WARRIOR, 9:18, 16:24, 10:18
+10, 3, Attack Enemy City, Operation Move, UNIT_WARRIOR, 8:20, 16:24, 9:20
+10, 3, Naval Superiority, No recruits to reach minimum, , , 
+10, 3, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+10, 4, Settle New City running, TARGET 26:12
+10, 4, Settle New City, ,0, Not Ready, 
+10, 4, Naval Superiority running, TARGET 23:5
+10, 4, Naval Superiority, ,0, Not Ready, 
+10, 4, Settle New City, Recruiting minimums, , , UNIT_WARRIOR
+10, Settle New City, 4, , Battle line, 22:10, 0 endangered
+10, 4, Settle New City, Operation Recruit, 1 units, Recruited 1, Contract for: UNIT_SETTLER
+10, 4, Settle New City, Operation Move, UNIT_WARRIOR, 23:11, 22:11, 22:11
+10, 4, Naval Superiority, No recruits to reach minimum, , , 
+10, 4, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+10, 5, Settle New City running, TARGET 22:26
+10, 5, Settle New City, ,0, Ready, UNIT_SETTLER; UNIT_WARRIOR; 
+10, 5, Settle New City, No recruits to reach minimum, , , 
+10, 5, Settle New City, No recruits to match strength, , Enemy Str: 0 / 20.0, 
+10, 5, Settle New City, Operation Recruit, 2 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+10, 5, Settle New City, Operation Move, UNIT_SETTLER, 22:26, 22:26, 22:26
+10, 5, Settle New City, Operation Move, UNIT_WARRIOR, 22:26, 22:26, 22:26
+10, 5, Settle New City, Operation complete
+10, 8, Naval Superiority running, TARGET 55:3
+10, 8, Naval Superiority, ,0, Not Ready, 
+10, 8, Naval Superiority, No recruits to reach minimum, , , 
+10, 8, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK
+10, 10, Naval Superiority running, TARGET 64:23
+10, 10, Naval Superiority, ,0, Not Ready, 
+10, 10, Naval Superiority, No recruits to reach minimum, , , 
+10, 10, Naval Superiority, Operation Recruit, 0 units, Recruited 0, Contract for: UNIT_WARRIOR_MONK

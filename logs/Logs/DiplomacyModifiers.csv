@@ -1,0 +1,5 @@
+Game Turn, Player, Opponent, Modifier, Change, Value, Max, Accum Amt, Accum Turns, Cooldown Turns, Reduction
+10, 0, 5, First impressions of you, Activate,   -1.0,   -1.0,    1.0, 0, 10,    1.0
+10, 0,  5, First impressions of you, Deactivate
+10, 5, 0, First impressions of you, Activate,   -5.0,   -5.0,    1.0, 0, 10,    1.0
+10, 5,  0, First impressions of you, Deactivate
