@@ -1,12 +1,14 @@
+-- Active: 1719696896858@@192.168.0.131@3306@civ
+-- Active: 1719696896858@@192.168.0.131@3306@civDW
 -- Does not include city state data. I'm not 100% sure, but it seems like the city state data is not included in the same tables.
 -- However, I really need to make sure there is no problem with my query.
 
 SELECT 
-    go.`ObjectId`,
-    go.`GameId`,
-    COALESCE(go.`PlayerObjectId`, go.`ObjectId`) AS `PlayerObjectId`,
-    go.Type,
-    go.Name,
+    gob.`ObjectId`,
+    gob.`GameId`,
+    COALESCE(gob.`PlayerObjectId`, gob.`ObjectId`) AS `PlayerObjectId`,
+    gob.Type,
+    gob.Name,
     ds.`DataSetId`,
     ds.`DataSet`,
     dsv.X,
@@ -21,11 +23,11 @@ FROM (
         `Type`,
         `Name`
     FROM `GameObjects`
-) go
+) AS gob
 LEFT JOIN `GamePlayers` AS gp ON
-    go.`PlayerObjectId` = gp.`PlayerObjectId`
+    gob.`PlayerObjectId` = gp.`PlayerObjectId`
 LEFT JOIN `DataSets` AS ds ON
-    go.`ObjectId` = ds.`ObjectId`
+    gob.`ObjectId` = ds.`ObjectId`
 LEFT JOIN `DataSetValues` AS dsv ON
     ds.`DataSetId` = dsv.`DataSetId`
 WHERE ds.`DataSet` IS NOT NULL

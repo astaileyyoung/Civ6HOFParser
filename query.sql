@@ -13,9 +13,9 @@ SELECT * FROM DataSetValues
 
 SELECT 
     CASE 
-        WHEN (SELECT IsLocal FROM GamePlayers WHERE `PlayerObjectId` = 2) = 1 THEN 1 ELSE 0
+        WHEN IsLocal = 1 THEN 1 ELSE 0
     END 
-FROM DUAL;
+FROM GamePlayers;
 
 CALL civDW.update_yields
 
@@ -133,3 +133,5 @@ LEFT JOIN `DataSetValues` AS dsv ON
 -- WHERE go.Name IS NOT NULL
 SELECT * 
 FROM `GameObjects`
+
+SELECT * FROM `civDW`.`Yields`
